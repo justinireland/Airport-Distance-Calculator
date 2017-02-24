@@ -1,7 +1,3 @@
-# Moat Challenge #2A
-
-By: Justin Ireland - justin@justinireland.com
-
 ## Installation
 
 ```
